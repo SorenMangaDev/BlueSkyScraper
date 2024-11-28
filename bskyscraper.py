@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 
 # Authentication Settings
-USERNAME = "example.bsky.social"  # or your handle
+USERNAME = "example.bsky.social"  # your email or your handle
 PASSWORD = "password"
 
 # Data Collection Parameters
